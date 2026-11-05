@@ -1,0 +1,11 @@
+{
+  "name": "Demo Gym — Strength Club",
+  "short_name": "Demo Gym",
+  "description": "Train with purpose at Demo Gym, Ghaziabad.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#10110f",
+  "theme_color": "#10110f",
+  "icons": [{"src":"./gym-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
