@@ -1,3 +1,0 @@
-Add your real gym gallery photos to this folder (jpg, jpeg, png, webp).
-The gallery page can be updated to import these local files once you provide the photos.
-Use descriptive filenames such as xyz-gym-strength-area.webp.
